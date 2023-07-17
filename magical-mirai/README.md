@@ -26,7 +26,7 @@
 1. github から本作品を clone する。
 
 ```
-$ git clone https://github.com/Motohiro-Otsuka/magical_mirai2022.git
+$ git clone https://github.com/T-Tea-Tee-Ti/magical-mirai-2023.git
 ```
 
 2. 以下のコマンドを実行する。
